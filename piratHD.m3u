@@ -1,0 +1,154 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTGRP:"Кино"
+#EXTINF:-1, Киномикс
+https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+#EXTGRP:"Кино"
+#EXTINF:-1, Fox
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTGRP:"Кино"
+#EXTINF:-1, Fox Life
+http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
+#EXTGRP:"Кино"
+#EXTINF:-1, Fox Life HD
+http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
+#EXTGRP:"Кино"
+#EXTINF:-1, Plan B HD
+http://31.148.6.4:10236/index.m3u8
+#EXTGRP:"Кино"
+#EXTINF:-1, Иллюзион+
+http://94.232.104.237:8000/play/049/index.m3u8
+#EXTGRP:"Кино"
+#EXTINF:-1, Кино ТВ
+http://91.142.158.107:8092/play/28/index.m3u8
+#EXTGRP:"Кино"
+#EXTINF:-1, Киносат
+https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+#EXTGRP:"Кино"
+#EXTINF:-1, Кинопоказ HD
+http://streaming.tv-teleport.ru/Kinopokaz/tracks-v1a1/mono.m3u8
+#EXTGRP:"Кино"
+#EXTINF:-1, 312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTGRP:"Кино"
+#EXTINF:-1, Kino24
+https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTGRP:"Кино"
+#EXTINF:-1, Кинопремьера HD 
+https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
+#EXTGRP:"Кино"
+#EXTINF:-1, Кинохит 
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+#EXTGRP:"Кино"
+#EXTINF:-1, Viju TV1000 Action HD
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTGRP:"Кино"
+#EXTINF:-1, Мужское кино
+http://45.159.74.14:80/MujskoeKino/index.m3u8
+#EXTGRP:"Кино"
+#EXTINF:-1, Hollywood HD 
+http://stream01.vnet.am/ParamountChannel/mono.m3u8
+#EXTGRP:"Кино"
+#EXTINF:-1, Страх HD
+http://195.9.195.3:8080/hls/202127.m3u8
+#EXTGRP:"Музыкальные"
+#EXTINF:-1, Bridge TV Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTGRP:"Музыкальные"
+#EXTINF:-1, Classic Music
+http://92.100.39.32:22888/play/a045
+#EXTGRP:"Музыкальные"
+#EXTINF:-1, MTV Live HD
+http://45.5.119.155:8090/play/a0hz/index.m3u8
+#EXTGRP:"Музыкальные"
+#EXTINF:-1, MTV 80's
+http://45.5.119.155:8090/play/a0ge/index.m3u8
+#EXTGRP:"Музыкальные"
+#EXTINF:-1, MTV 90's
+http://94.232.104.237:8000/play/102/index.m3u8
+#EXTGRP:"Музыкальные"
+#EXTINF:-1, MTV 00's
+http://89.254.128.5:22280/mtv_00/video.m3u8
+#EXTGRP:"Познавательные"
+#EXTINF:-1, В мире животных
+https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
+#EXTGRP:"Познавательные"
+#EXTINF:-1, Живая планета
+http://109.239.208.82:80/liveplanet/index.m3u8
+#EXTGRP:"Познавательные"
+#EXTINF:-1", Живая природа
+http://62.231.191.65:8888/17
+#EXTGRP:"18+"
+#EXTINF:-1, Babes TV HD
+http://146.59.54.163/354/index.m3u8
+#EXTGRP:"18+"
+#EXTINF:-1, Dorcel TV HD 
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTGRP:"18+"
+#EXTINF:-1, Erox
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTGRP:"18+"
+#EXTINF:-1, Extasy HD
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8 
+#EXTGRP:"18+"
+#EXTINF:-1, O-la-la
+http://31.148.48.15:80/O-la-la/index.m3u8?token=test
+#EXTGRP:"18+"
+#EXTINF:-1, Penthouse Gold
+http://146.59.54.163/353/index.m3u8
+#EXTGRP:"18+"
+#EXTINF:-1, Penthouse Gold HD
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTGRP:"18+"
+#EXTINF:-1, Visit-X 
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTGRP:"18+"
+#EXTINF:-1, Кино 18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTGRP:"21+"
+#EXTINF:-1, Big Ass 
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTGRP:"21+"
+#EXTINF:-1, Big Dick 
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTGRP:"21+"
+#EXTINF:-1, Big Tits 
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTGRP:"21+"
+#EXTINF:-1, Blonde 
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTGRP:"21+"
+#EXTINF:-1, Blowjob 
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTGRP:"21+"
+#EXTINF:-1, Hardcore 
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTGRP:"21+"
+#EXTINF:-1, Interracial 
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTGRP:"21+"
+#EXTINF:-1, Latina 
+http://cdn.adultiptv.net/latina.m3u8
+#EXTGRP:"21+"
+#EXTINF:-1, Lesbian 
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTGRP:"21+"
+#EXTINF:-1, Live Cams 
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTGRP:"21+"
+#EXTINF:-1, POV 
+http://cdn.adultiptv.net/pov.m3u8
+#EXTGRP:"21+"
+#EXTINF:-1, Pornstar 
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTGRP:"21+"
+#EXTINF:-1, жесткий 
+http://cdn.adultiptv.net/rough.m3u8
+#EXTGRP:"21+"
+#EXTINF:-1, Русские 
+http://cdn.adultiptv.net/russian.m3u8
+#EXTGRP:"21+"
+#EXTINF:-1, Молодые 
+http://cdn.adultiptv.net/teen.m3u8
+#EXTGRP:"21+"
+#EXTINF:-1, Групповое 
+http://cdn.adultiptv.net/threesome.m3u8
