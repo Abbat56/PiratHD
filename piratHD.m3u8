@@ -50,6 +50,7 @@ http://stream01.vnet.am/ParamountChannel/mono.m3u8
 #EXTINF:0,Страх HD
 #EXTGRP:Кино
 http://195.9.195.3:8080/hls/202127.m3u8
+
 #EXTINF:0,Bridge TV Rock
 #EXTGRP:Музыкальные
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8#EXTGRP:
@@ -68,6 +69,7 @@ http://94.232.104.237:8000/play/102/index.m3u8
 #EXTINF:0,MTV 00s
 #EXTGRP:Музыкальные
 http://89.254.128.5:22280/mtv_00/video.m3u8
+
 #EXTINF:0,В мире животных
 #EXTGRP:Познавательные
 https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
@@ -77,6 +79,35 @@ http://109.239.208.82:80/liveplanet/index.m3u8
 #EXTINF:0,Живая природа
 #EXTGRP:Познавательные
 http://62.231.191.65:8888/17
+
+#EXTINF:0,Babes TV HD
+#EXTGRP:xXx ТВ Каналы
+http://146.59.54.163/354/index.m3u8
+#EXTINF:0,Dorcel TV HD
+#EXTGRP:xXx ТВ Каналы
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:0,Erox
+#EXTGRP:xXx ТВ Каналы
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:0,Extasy HD
+#EXTGRP:xXx ТВ Каналы
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8 
+#EXTINF:0,O-la-la
+#EXTGRP:xXx ТВ Каналы
+http://31.148.48.15:80/O-la-la/index.m3u8?token=test
+#EXTINF:0,Penthouse Gold
+#EXTGRP:xXx ТВ Каналы
+http://146.59.54.163/353/index.m3u8
+#EXTINF:0,Penthouse Gold HD
+#EXTGRP:xXx ТВ Каналы
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:0,Visit-X
+#EXTGRP:xXx ТВ Каналы
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:0,Кино 18+
+#EXTGRP:xXx ТВ Каналы
+https://autopilot.catcast.tv/content/40381/index.m3u8
+
 #EXTINF:0,Big Ass
 #EXTGRP:xXx По жанрам
 http://cdn.adultiptv.net/bigass.m3u8
@@ -125,30 +156,3 @@ http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:0,Групповое
 #EXTGRP:xXx По жанрам
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:0,Babes TV HD
-#EXTGRP:xXx ТВ Каналы
-http://146.59.54.163/354/index.m3u8
-#EXTINF:0,Dorcel TV HD
-#EXTGRP:xXx ТВ Каналы
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:0,Erox
-#EXTGRP:xXx ТВ Каналы
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:0,Extasy HD
-#EXTGRP:xXx ТВ Каналы
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8 
-#EXTINF:0,O-la-la
-#EXTGRP:xXx ТВ Каналы
-http://31.148.48.15:80/O-la-la/index.m3u8?token=test
-#EXTINF:0,Penthouse Gold
-#EXTGRP:xXx ТВ Каналы
-http://146.59.54.163/353/index.m3u8
-#EXTINF:0,Penthouse Gold HD
-#EXTGRP:xXx ТВ Каналы
-http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:0,Visit-X
-#EXTGRP:xXx ТВ Каналы
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:0,Кино 18+
-#EXTGRP:xXx ТВ Каналы
-https://autopilot.catcast.tv/content/40381/index.m3u8
